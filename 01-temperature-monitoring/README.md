@@ -27,8 +27,6 @@ Wokwi Simulator
 - Reading sensor data
 - Using conditional statements
 - Testing an ECE project through simulation
-
 ## Simulation
-*Wokwi project link to be added.*
 
-*This project was developed and tested using an online simulation. No physical hardware was used.*
+[Open Temperature Monitoring System in Wokwi](https://wokwi.com/projects/476880548595803137)
